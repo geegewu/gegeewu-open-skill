@@ -53,7 +53,6 @@
 | Skill | 功能 | 依赖 |
 |-------|------|------|
 | `pinterest-search-intent` | 视觉参考 → 英文搜索提示词 | 无 |
-| `apple-notes` | macOS 备忘录 CRUD | AppleScript |
 | `summarize` | URL/PDF/文件内容摘要 | summarize CLI |
 | `nano-banana-pro` | AI 生图/编辑图（Gemini 3 Pro Image） | uv, GEMINI_API_KEY |
 | `instagram` | Instagram 管理/发帖 | Instagram API, Cloudinary |
