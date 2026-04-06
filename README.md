@@ -91,6 +91,10 @@
 - ffmpeg, uv, yt-dlp
 - 环境变量配置见 `CLAUDE.md`
 
+## Disclaimer
+
+使用 `auto-redbook` 或其他 skill 进行自动化操作可能违反相关平台的服务条款或使用政策，由此产生的一切风险和后果由使用者自行承担。
+
 ## License
 
 GPL-3.0
