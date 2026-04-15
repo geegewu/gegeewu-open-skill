@@ -94,6 +94,8 @@
 
 使用 `auto-redbook` 或其他 skill 进行自动化操作可能违反相关平台的服务条款或使用政策，由此产生的一切风险和后果由使用者自行承担。
 
+## 本skill引用了baoyu以及其他skill 不再赘述
+
 ## License
 
 GPL-3.0
